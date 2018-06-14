@@ -1,7 +1,7 @@
 This page provides codes for reproducing our results. We use two main libraries here:
 
-* The very awesome **SHEEP** library (which will be released very soon) prepared by[ Oliver and Nick](https://www.turing.ac.uk/research-engineering/#people) to run the boolean circuits for our networks.
-* However, to prepare the network, we have designed our own general purpose library, **matSHEEP**, which provides a programmatic interface to design and visualize circuits for deep neural networks in python. Find more abour **matSHEEP** at [this link](https://amartya18x.github.io/matSHEEP).
+* The very awesome **SHEEP** library (which will be released very soon) prepared by[ Oliver and Nick](https://www.turing.ac.uk/research-engineering/#people) to run  boolean circuits on ecnrypted data using various homomorphic encryption schemes for our networks.
+* Our own general purpose library, **matSHEEP**, which provides a programmatic interface to design and visualize logic circuits for deep neural networks in python. Find more abour **matSHEEP** at [this link](https://amartya18x.github.io/matSHEEP).
 
 
 There are two main types of experiments. 
